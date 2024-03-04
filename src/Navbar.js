@@ -1,4 +1,5 @@
-function BasicExample() {
+
+function Navbar() {
     return (
       <Navbar expand="lg" className="bg-body-tertiary">
         <Container>
@@ -25,3 +26,5 @@ function BasicExample() {
       </Navbar>
     );
   }
+
+  export default Navbar;

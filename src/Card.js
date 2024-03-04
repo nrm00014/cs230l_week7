@@ -33,3 +33,5 @@ function Card(){
             </Card></>
       );
 }
+
+export default Card;
